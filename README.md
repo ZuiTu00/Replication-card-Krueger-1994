@@ -18,3 +18,11 @@ https://davidcard.berkeley.edu/data_sets.html
 - data/raw/ — Original data files (public.dat, codebook)
 - data/processed/ — Cleaned output files
 - notebooks/ — Analysis notebooks
+## Phase 3: Extension — Heterogeneous Treatment Effects
+This extension examines whether the average DID effect (+2.75 FTE) masks heterogeneity across restaurants. Analysis includes:
+- **GAP variable**: measures treatment intensity (how much each restaurant had to raise wages)
+- **Chain-level subgroups**: separate DID for Burger King, KFC, Roy Rogers, Wendy's
+- **Firm size**: large chains vs small chain
+- **Visualization**: forest plot comparing all subgroup effects
+
+Key finding: restaurants facing larger mandated wage increases experienced greater employment gains, consistent with a monopsony labor market interpretation.
