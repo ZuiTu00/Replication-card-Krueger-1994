@@ -13,7 +13,7 @@ Imagine two identical neighborhoods separated by a state border. On April 1, 199
 
 ### The Visual Evidence
 
-![Forest Plot: Heterogeneous Treatment Effects](forest_plot_hte.png)
+![Forest Plot: Heterogeneous Treatment Effects](Forest%20plot.png)
 
 **Figure 1: Subgroup DID estimates of the NJ minimum wage effect on FTE employment.** Each dot represents the estimated employment effect for a subgroup, with horizontal lines showing 95% confidence intervals. The red dashed line marks zero effect; the green dashed line marks the full-sample average (+2.75). Blue rows compare individual chains, green rows compare large vs small firms, and orange rows compare restaurants by treatment intensity (GAP). KFC is the only subgroup with a negative point estimate, while Burger King and high-GAP restaurants show the strongest positive effects.
 
